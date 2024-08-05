@@ -4,11 +4,11 @@ Antonio Anaya
 
 DevOps, Project lead at
 Internet of Production UK,
-Open-Know-Where Lead,
+Open-Know-Where Working group Lead,
 mAkE African European Maker Ecosystem
 
 ## Location
-Mexico, and The Netherlads.
+Mexico, and The Netherlands.
 
 ## E-mail:
 antonio.anaya[a]internetofproduction[.]org
